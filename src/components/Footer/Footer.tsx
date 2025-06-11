@@ -32,7 +32,7 @@ const Footer: React.FC = () => {
       return;
     }
 
-    const companyWhatsappNumber = '919601503959'; // removed the + sign
+    const companyWhatsappNumber = '917600001884'; // removed the + sign
     const enquiryMessage = `
  New Enquiry Received*
  Name: ${fullName}
